@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"INFO": "Esto no se usa en el teléfono.",
-		"VERSION": "1.0.0"
+		"VERSION": "1.0.1"
 	},
 	"general": {
 		"saveLabel": "Guardar",
